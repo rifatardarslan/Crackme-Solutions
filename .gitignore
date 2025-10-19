@@ -1,0 +1,30 @@
+# Ignore binary and dump files
+*.exe
+*.dll
+*.bin
+*.pdb
+*.obj
+*.iso
+*.vdi
+*.vmdk
+*.vbox
+*.ova
+
+# Build files
+__pycache__/
+*.pyc
+*.o
+*.out
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# IDE configs
+.vscode/
+.idea/
+
+# Generated outputs
+/dist/
+/build/
