@@ -1,3 +1,5 @@
+> 🇹🇷 Türkçe sürüm için [README.tr.md](README.tr.md) dosyasına bakın.
+
 # 🧠 Reverse Engineering Practice Repository — English Version
 
 ## 🎯 Project Title
