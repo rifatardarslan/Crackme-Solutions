@@ -1,6 +1,6 @@
 > 🇹🇷 Türkçe sürüm için [README.tr.md](README.tr.md) dosyasına bakın.
 
-# 🧠 Reverse Engineering Practice Repository — English Version
+# 🧠 Reverse Engineering Practice Repository
 <p align="center">
   <img src="https://img.shields.io/github/license/rifatardarslan/Crackme-Solutions?style=for-the-badge" alt="License"/>
   <img src="https://img.shields.io/github/issues/rifatardarslan/Crackme-Solutions?style=for-the-badge" alt="Issues"/>
